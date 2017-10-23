@@ -17,6 +17,7 @@
 #    along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
+from multiprocessing import Process
 import platform
 import xbmc
 import lib.common
