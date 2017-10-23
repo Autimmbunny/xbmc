@@ -17,6 +17,7 @@
 #  <http://www.gnu.org/licenses/>.
 #
 
+from multiprocessing import Process
 import xbmc, xbmcgui, re, os
 
 thumbDir = "Q:\\thumbs"
